@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "searxng": {
+      "version": "1.0.3",
+      "installedAt": 1770275419630
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1770481718151
+    },
+    "healthcheck": {
+      "version": "1.0.2",
+      "installedAt": 1770483720000
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1770513073685
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1770738903354
+    }
+  }
+}
