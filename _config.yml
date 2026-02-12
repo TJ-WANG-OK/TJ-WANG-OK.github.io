@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Tengjiao Wang - Academic Portfolio"
+title                    : "Tengjiao Wang"
 title_separator          : "-"
 name                     : &name "Tengjiao Wang"
 description              : &description "Academic portfolio of Tengjiao Wang, researcher in communication systems and signal processing"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,11 +26,11 @@ author:
   avatar           : "images/profile.png"
   name             : "Tengjiao Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in Communication Systems and Signal Processing"
-  location         : "Beijing, China"
-  employer         : "National Key Laboratory, XX University"
+  bio              : "Researcher in Communications and AI"
+  location         : "Shanghai, China"
+  employer         : "Huawei"
   uri              : # URL
-  email            : "tjwang@research.edu.cn" 
+  email            : "tangtengjiao@outlook.com" 
 
   # Academic websites
   academia         : # URL
