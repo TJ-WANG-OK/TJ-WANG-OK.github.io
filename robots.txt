@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TJ-WANG-OK.github.io/Personal-CV//sitemap.xml
+Sitemap: https://TJ-WANG-OK.github.io/sitemap.xml

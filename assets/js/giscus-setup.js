@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "TJ-WANG-OK/Personal-CV",
+    "data-repo": "TJ-WANG-OK/TJ-WANG-OK.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
