@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-19'
 papers:
   GXZpIGkAAAAJ:0EnyYjriUFMC:
     citations: 31
@@ -42,7 +42,7 @@ papers:
     title: 'Densifying MIMO: Channel modeling, physical constraints, and performance evaluation for holographic communications'
     year: '2024'
   GXZpIGkAAAAJ:Se3iqnhoufwC:
-    citations: 94
+    citations: 95
     title: 'Intelligent reflecting surface-aided visible light communications: Potentials and challenges'
     year: '2021'
   GXZpIGkAAAAJ:Tyk-4Ss8FVUC:
@@ -54,7 +54,7 @@ papers:
     title: 'A Framework of Near-Field Communication with Different Array Geometries: Analysis, Optimization, and General Channel Estimation Algorithms Based on Deep Learning'
     year: '2026'
   GXZpIGkAAAAJ:UebtZRa9Y70C:
-    citations: 51
+    citations: 52
     title: 'Ultraviolet-based UAV swarm communications: Potentials and challenges'
     year: '2022'
   GXZpIGkAAAAJ:W7OEmFMy1HYC:
@@ -82,7 +82,7 @@ papers:
     title: Index-domain division multiple access for IoT applications
     year: '2021'
   GXZpIGkAAAAJ:d1gkVwhDpl0C:
-    citations: 66
+    citations: 67
     title: 'Dimming techniques of visible light communications for human-centric illumination networks: State-of-the-art, challenges, and trends'
     year: '2020'
   GXZpIGkAAAAJ:eQOLeE2rZwMC:
@@ -94,7 +94,7 @@ papers:
     title: Extensions to COST 2100 channel model for extremely large-scale MIMO
     year: '2022'
   GXZpIGkAAAAJ:kNdYIx-mwKoC:
-    citations: 27
+    citations: 29
     title: 'Breaking the degrees-of-freedom limit of holographic MIMO communications: A 3-D antenna array topology'
     year: '2024'
   GXZpIGkAAAAJ:qjMakFHDy7sC:
