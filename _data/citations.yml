@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-24'
 papers:
   GXZpIGkAAAAJ:0EnyYjriUFMC:
     citations: 31
@@ -42,7 +42,7 @@ papers:
     title: 'Densifying MIMO: Channel modeling, physical constraints, and performance evaluation for holographic communications'
     year: '2024'
   GXZpIGkAAAAJ:Se3iqnhoufwC:
-    citations: 95
+    citations: 96
     title: 'Intelligent reflecting surface-aided visible light communications: Potentials and challenges'
     year: '2021'
   GXZpIGkAAAAJ:Tyk-4Ss8FVUC:
@@ -54,7 +54,7 @@ papers:
     title: 'A Framework of Near-Field Communication with Different Array Geometries: Analysis, Optimization, and General Channel Estimation Algorithms Based on Deep Learning'
     year: '2026'
   GXZpIGkAAAAJ:UebtZRa9Y70C:
-    citations: 52
+    citations: 53
     title: 'Ultraviolet-based UAV swarm communications: Potentials and challenges'
     year: '2022'
   GXZpIGkAAAAJ:W7OEmFMy1HYC:
@@ -94,7 +94,7 @@ papers:
     title: Extensions to COST 2100 channel model for extremely large-scale MIMO
     year: '2022'
   GXZpIGkAAAAJ:kNdYIx-mwKoC:
-    citations: 29
+    citations: 30
     title: 'Breaking the degrees-of-freedom limit of holographic MIMO communications: A 3-D antenna array topology'
     year: '2024'
   GXZpIGkAAAAJ:qjMakFHDy7sC:
@@ -110,7 +110,7 @@ papers:
     title: Spectral-efficient generalized spatial modulation based hybrid dimming scheme with LACO-OFDM in VLC
     year: '2018'
   GXZpIGkAAAAJ:u5HHmVD_uO8C:
-    citations: 47
+    citations: 48
     title: Deep convolutional neural network-based detector for index modulation
     year: '2020'
   GXZpIGkAAAAJ:ufrVoPGSRksC:
