@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-08'
 papers:
   GXZpIGkAAAAJ:0EnyYjriUFMC:
     citations: 31
@@ -42,7 +42,7 @@ papers:
     title: 'Densifying MIMO: Channel modeling, physical constraints, and performance evaluation for holographic communications'
     year: '2024'
   GXZpIGkAAAAJ:Se3iqnhoufwC:
-    citations: 96
+    citations: 100
     title: 'Intelligent reflecting surface-aided visible light communications: Potentials and challenges'
     year: '2021'
   GXZpIGkAAAAJ:Tyk-4Ss8FVUC:
@@ -69,6 +69,10 @@ papers:
     citations: 3
     title: Index modulation based hybrid dimming scheme for visible light communication
     year: '2019'
+  GXZpIGkAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: 'Polarization-and Mutual-Coupling-Aware Rotatable Antennas Enabled Wireless Communications: Modeling, Orientation Optimization, and Prototyping'
+    year: '2026'
   GXZpIGkAAAAJ:YsMSGLbcyi4C:
     citations: 29
     title: 'Intercommunity detection scheme for social Internet of Things: Compressive sensing over graphs approach'
@@ -82,7 +86,7 @@ papers:
     title: Index-domain division multiple access for IoT applications
     year: '2021'
   GXZpIGkAAAAJ:d1gkVwhDpl0C:
-    citations: 67
+    citations: 68
     title: 'Dimming techniques of visible light communications for human-centric illumination networks: State-of-the-art, challenges, and trends'
     year: '2020'
   GXZpIGkAAAAJ:eQOLeE2rZwMC:
