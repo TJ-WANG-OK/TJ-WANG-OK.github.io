@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-24'
 papers:
   GXZpIGkAAAAJ:0EnyYjriUFMC:
-    citations: 31
+    citations: 33
     title: Electromagnetic-compliant channel modeling and performance evaluation for holographic MIMO
     year: '2022'
   GXZpIGkAAAAJ:2osOgNQ5qMEC:
@@ -38,11 +38,11 @@ papers:
     title: Deep reinforcement learning for spectrum sharing in future mobile communication system
     year: '2021'
   GXZpIGkAAAAJ:MXK_kJrjxJIC:
-    citations: 31
+    citations: 32
     title: 'Densifying MIMO: Channel modeling, physical constraints, and performance evaluation for holographic communications'
     year: '2024'
   GXZpIGkAAAAJ:Se3iqnhoufwC:
-    citations: 100
+    citations: 103
     title: 'Intelligent reflecting surface-aided visible light communications: Potentials and challenges'
     year: '2021'
   GXZpIGkAAAAJ:Tyk-4Ss8FVUC:
@@ -54,7 +54,7 @@ papers:
     title: 'A Framework of Near-Field Communication with Different Array Geometries: Analysis, Optimization, and General Channel Estimation Algorithms Based on Deep Learning'
     year: '2026'
   GXZpIGkAAAAJ:UebtZRa9Y70C:
-    citations: 53
+    citations: 55
     title: 'Ultraviolet-based UAV swarm communications: Potentials and challenges'
     year: '2022'
   GXZpIGkAAAAJ:W7OEmFMy1HYC:
@@ -98,7 +98,7 @@ papers:
     title: Extensions to COST 2100 channel model for extremely large-scale MIMO
     year: '2022'
   GXZpIGkAAAAJ:kNdYIx-mwKoC:
-    citations: 30
+    citations: 31
     title: 'Breaking the degrees-of-freedom limit of holographic MIMO communications: A 3-D antenna array topology'
     year: '2024'
   GXZpIGkAAAAJ:qjMakFHDy7sC:
