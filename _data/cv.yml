@@ -4,7 +4,7 @@ cv:
   email: wangtengjiao@outlook.com
   location: Shanghai, China
   image: ""
-  summary: Tengjiao Wang is a research scientist and technical expert with Wireless Network Research Department, Huawei Technologies CO., Ltd, China. He received his B.S. and Ph. D. degrees from Tsinghua University, Beijing, China and was a visiting scholar with Massachusetts Institute of Technology, Cambridge, MA, USA. His research interests lie in the fields of 5G-A and 6G wireless communications, machine learning for wireless communications, electromagnetic information theory, and visible light communications. 
+  summary: Tengjiao Wang is a research scientist and technical expert with Wireless Network Research Department, Huawei Technologies CO., Ltd, China. He received his B.S. and Ph. D. degrees from Tsinghua University, Beijing, China and was a visiting scholar with Massachusetts Institute of Technology, Cambridge, MA, USA. His research interests lie in the fields of 5G-A and 6G wireless communications, machine learning for wireless communications, electromagnetic information theory, and visible light communications.
 
   social_networks:
     - network: X
@@ -17,7 +17,7 @@ cv:
   address:
     street: Qingpu District
     city: Shanghai
-    region: 
+    region:
     postalCode: 201799
     countryCode: China
 
@@ -90,4 +90,3 @@ cv:
         date: 2024
         awarder: The 14th International Symposium on Antennas Propagation and EM Theory
         summary: Awarded as the Distinguished Tutorial Lecturer for the 14th International Symposium on Antennas Propagation and EM Theory
-

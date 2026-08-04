@@ -26,12 +26,12 @@ Research Scientist and Technical Expert at Huawei Technologies CO., Ltd, Wireles
 
 ## Site Structure
 
-| Page | Description |
-|------|-------------|
-| [About](https://TJ-WANG-OK.github.io/Personal-CV/) | Personal introduction and profile |
-| [CV](https://TJ-WANG-OK.github.io/Personal-CV/cv/) | Curriculum Vitae (JSONResume + RenderCV) |
+| Page                                                                   | Description                               |
+| ---------------------------------------------------------------------- | ----------------------------------------- |
+| [About](https://TJ-WANG-OK.github.io/Personal-CV/)                     | Personal introduction and profile         |
+| [CV](https://TJ-WANG-OK.github.io/Personal-CV/cv/)                     | Curriculum Vitae (JSONResume + RenderCV)  |
 | [Publications](https://TJ-WANG-OK.github.io/Personal-CV/publications/) | Published papers from BibTeX bibliography |
-| [Blog](https://TJ-WANG-OK.github.io/Personal-CV/blog/) | Technical posts and notes |
+| [Blog](https://TJ-WANG-OK.github.io/Personal-CV/blog/)                 | Technical posts and notes                 |
 
 ## Deployment
 
