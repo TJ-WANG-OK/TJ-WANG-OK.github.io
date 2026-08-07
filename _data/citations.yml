@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-07'
 papers:
   GXZpIGkAAAAJ:0EnyYjriUFMC:
     citations: 33
@@ -22,7 +22,7 @@ papers:
     title: Effect of antenna pattern on the electromagnetic MIMO communication
     year: '2022'
   GXZpIGkAAAAJ:9yKSN-GCB0IC:
-    citations: 27
+    citations: 26
     title: 'Spectral-efficient hybrid dimming scheme for indoor visible light communication: A subcarrier index modulation based approach'
     year: '2019'
   GXZpIGkAAAAJ:IjCSPb-OGe4C:
@@ -38,7 +38,7 @@ papers:
     title: Deep reinforcement learning for spectrum sharing in future mobile communication system
     year: '2021'
   GXZpIGkAAAAJ:MXK_kJrjxJIC:
-    citations: 32
+    citations: 33
     title: 'Densifying MIMO: Channel modeling, physical constraints, and performance evaluation for holographic communications'
     year: '2024'
   GXZpIGkAAAAJ:Se3iqnhoufwC:
@@ -58,7 +58,7 @@ papers:
     title: 'Ultraviolet-based UAV swarm communications: Potentials and challenges'
     year: '2022'
   GXZpIGkAAAAJ:W7OEmFMy1HYC:
-    citations: 27
+    citations: 25
     title: Deep learning-based detection scheme for visible light communication with generalized spatial modulation
     year: '2020'
   GXZpIGkAAAAJ:WF5omc3nYNoC:
@@ -86,7 +86,7 @@ papers:
     title: Index-domain division multiple access for IoT applications
     year: '2021'
   GXZpIGkAAAAJ:d1gkVwhDpl0C:
-    citations: 68
+    citations: 69
     title: 'Dimming techniques of visible light communications for human-centric illumination networks: State-of-the-art, challenges, and trends'
     year: '2020'
   GXZpIGkAAAAJ:eQOLeE2rZwMC:
@@ -98,11 +98,11 @@ papers:
     title: Extensions to COST 2100 channel model for extremely large-scale MIMO
     year: '2022'
   GXZpIGkAAAAJ:kNdYIx-mwKoC:
-    citations: 31
+    citations: 33
     title: 'Breaking the degrees-of-freedom limit of holographic MIMO communications: A 3-D antenna array topology'
     year: '2024'
   GXZpIGkAAAAJ:qjMakFHDy7sC:
-    citations: 6
+    citations: 5
     title: Novel index modulation aided non-orthogonal multiple access for visible light communication
     year: '2019'
   GXZpIGkAAAAJ:roLk4NBRz8UC:
