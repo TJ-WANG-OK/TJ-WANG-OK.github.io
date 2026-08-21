@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-21'
 papers:
   GXZpIGkAAAAJ:0EnyYjriUFMC:
     citations: 33
@@ -58,7 +58,7 @@ papers:
     title: 'Ultraviolet-based UAV swarm communications: Potentials and challenges'
     year: '2022'
   GXZpIGkAAAAJ:W7OEmFMy1HYC:
-    citations: 25
+    citations: 27
     title: Deep learning-based detection scheme for visible light communication with generalized spatial modulation
     year: '2020'
   GXZpIGkAAAAJ:WF5omc3nYNoC:
@@ -70,7 +70,7 @@ papers:
     title: Index modulation based hybrid dimming scheme for visible light communication
     year: '2019'
   GXZpIGkAAAAJ:YOwf2qJgpHMC:
-    citations: 0
+    citations: 1
     title: 'Polarization-and Mutual-Coupling-Aware Rotatable Antennas Enabled Wireless Communications: Modeling, Orientation Optimization, and Prototyping'
     year: '2026'
   GXZpIGkAAAAJ:YsMSGLbcyi4C:
