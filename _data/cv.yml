@@ -4,7 +4,7 @@ cv:
   email: wangtengjiao@outlook.com
   location: Shanghai, China
   image: ""
-  summary: Tengjiao Wang is a research scientist and technical expert with Wireless Network Research Department, Huawei Technologies CO., Ltd, China. He received his B.S. and Ph. D. degrees from Tsinghua University, Beijing, China and was a visiting scholar with Massachusetts Institute of Technology, Cambridge, MA, USA. His research interests lie in the fields of 5G-A and 6G wireless communications, machine learning for wireless communications, electromagnetic information theory, and visible light communications.
+  summary: Tengjiao Wang is a Research Scientist and Technical Expert with the Wireless Network Research Department at Huawei Technologies Co., Ltd., China. He received his B.S. and Ph.D. degrees from Tsinghua University, Beijing, China, and was a Visiting Scholar at the Massachusetts Institute of Technology (MIT), Cambridge, MA, USA. Currently, he is leading the research of Artificial Intelligence for Radio Access Network (AI4RAN), Electromagnetic Signal and Information Theory (ESIT), and Near Field Communications in 5G-Advanced (5G-A) and 6G wireless communications in Huawei. He actively contributes to academic research, industrial innovation, and standardization of emerging communication technologies. He has authored and co-authored more than 30 peer-reviewed publications in leading journals and international conferences, and has filed more than 30 international patents. He currently serves as the Industry Liaison Officer of the IEEE Communications Society Electromagnetic Signal and Information Theory (ESIT) Emerging Technology Initiative (ETI), promoting collaboration between academia and industry in emerging communication technologies.
 
   social_networks:
     - network: X
@@ -31,8 +31,9 @@ cv:
         start_date: 2016
         end_date: 2021
         highlights:
-          - Description 1.
-          - Description 2.
+          - Under the supervision of **Prof. Jian Song** (IEEE Fellow)
+          - Outstanding Doctoral Dissertation of Tsinghua University
+          - Outstanding Graduates of Beijing, China
 
       - institution: Massachusetts Institute of Technology
         location: Cambridge, MA, USA
@@ -42,8 +43,7 @@ cv:
         start_date: 2019
         end_date: 2020
         highlights:
-          - Description 1.
-          - Description 2.
+          - Under the supervision of **Prof. Lizhong Zheng** (IEEE Fellow)
 
       - institution: Tsinghua University
         location: Beijing, China
@@ -53,8 +53,8 @@ cv:
         start_date: 2012
         end_date: 2016
         highlights:
-          - Description 1.
-          - Description 2.
+          - President of the EE Student Union
+          - Vice President of the Tsinghua University Student Union
 
     Experience:
       - company: Huawei Technologies CO., Ltd, China
@@ -62,18 +62,26 @@ cv:
         location: Shanghai, China
         start_date: 2025
         end_date: 2026
+        highlights:
+          - Leading the research of Artificial Intelligence for Radio Access Network (**AI4RAN**)
+          - Leading the research of **Wireless Digital Twins**
 
       - company: Huawei Technologies CO., Ltd, China
         position: Research Scientist, Project Leader, Principal Engineer
         location: Shanghai, China
         start_date: 2023
         end_date: 2025
-
+        highlights:
+          - Leading the research of Near Field Communications (**NFC**), which is adopted by **3GPP R19**
+          - Leading the research of **massive MIMO**, which is adopted by **3GPP R20/R21**
       - company: Huawei Technologies CO., Ltd, China
         position: Research Scientist, Principal Engineer
         location: Shanghai, China
         start_date: 2022
         end_date: 2023
+        highlights:
+          - Leading the research of Electromagnetic Signal and Information Theory (**ESIT**)
+          - Serving as the **Founding Member** and **Industry Liaison Officer** of the IEEE Communications Society **ESIT Emerging Technology Initiative (ETI)**
 
       - company: Huawei Technologies CO., Ltd, China
         position: Principal Engineer
@@ -81,12 +89,201 @@ cv:
         start_date: 2021
         end_date: 2022
         highlights:
-          - Under the **Top Minds** Program
+          - Under the **Top Minds** Program (**天才少年**)
 
     Awards:
       - title: Distinguished Tutorial Lecturer
         authors:
-          - "The 14th International Symposium on Antennas Propagation and EM Theory"
+          - "Tengjiao Wang"
         date: 2024
         awarder: The 14th International Symposium on Antennas Propagation and EM Theory
-        summary: Awarded as the Distinguished Tutorial Lecturer for the 14th International Symposium on Antennas Propagation and EM Theory
+        summary: 第十四届天线传播与电磁理论国际会议杰出讲师
+
+      - title: Outstanding Graduate of Beijing, China
+        authors:
+          - "Tengjiao Wang"
+        date: 2021-07
+        awarder: Beijing Municipal Commission of Education
+        summary: 北京市优秀毕业生
+
+      - title: Outstanding Doctoral Dissertation of Tsinghua University
+        authors:
+          - "Tengjiao Wang"
+        date: 2021-06
+        awarder: Tsinghua University
+        summary: 清华大学优秀博士学位论文
+
+      - title: Academic Rising Star of Tsinghua University
+        authors:
+          - "Tengjiao Wang"
+        date: 2021-06
+        awarder: Graduate School, Graduate Affairs Office, and Graduate Student Association, Tsinghua University
+        summary: 清华大学“学术新秀”
+
+      - title: Sailing Award of Tsinghua University — Silver Prize
+        authors:
+          - "Tengjiao Wang"
+        date: 2021-06
+        awarder: Tsinghua University
+        summary: 清华大学“启航奖”银奖
+
+      - title: Wang Daheng Optics Award (Student Optics Award)
+        authors:
+          - "Tengjiao Wang"
+        date: 2021-05
+        awarder: Chinese Optical Society
+        summary: 王大珩光学奖（学生光学奖）
+
+      - title: Comprehensive Excellence Scholarship
+        authors:
+          - "Tengjiao Wang"
+        date: 2020-12
+        awarder: Tsinghua University
+        summary: 清华大学综合优秀奖学金
+
+      - title: Outstanding Student Leader of Beijing
+        authors:
+          - "Tengjiao Wang"
+        date: 2020-07
+        awarder: Beijing Municipal Education Working Committee, Beijing Municipal Commission of Education, Beijing Municipal Committee of the Communist Youth League, and Beijing Students' Federation
+        summary: 北京市优秀学生干部
+
+      - title: Star of Electronic Engineering
+        authors:
+          - "Tengjiao Wang"
+        date: 2019-06
+        awarder: Graduate Affairs Office, Department of Electronic Engineering, Tsinghua University
+        summary: 清华大学电子系“电子之星”荣誉称号
+
+      - title: December 9th Counselor Award
+        authors:
+          - "Tengjiao Wang"
+        date: 2018-12
+        awarder: Student Affairs Steering Committee, Tsinghua University
+        summary: 清华大学“一二·九”辅导员奖
+
+      - title: First-Class Scholarship for Graduate Social Practice
+        authors:
+          - "Tengjiao Wang"
+        date: 2018-12
+        awarder: Graduate School, Tsinghua University
+        summary: 清华大学2018年研究生社会实践一等奖学金
+
+      - title: Runner-Up in the 3rd “21st Century Leaders” Intellectual Competition at the SCO Youth Assembly
+        authors:
+          - "Tengjiao Wang"
+        date: 2018-11
+        awarder: Secretariat of the Shanghai Cooperation Organisation
+        summary: 上合组织国家青年代表大会第三届“21世纪领袖”智力比赛亚军
+
+      - title: National Scholarship
+        authors:
+          - "Tengjiao Wang"
+        date: 2018-11
+        awarder: Ministry of Education of the People's Republic of China
+        summary: 国家奖学金
+
+      - title: Outstanding Graduate Students in Summer Practice
+        authors:
+          - "Tengjiao Wang"
+        date: 2018-08
+        awarder: Talent Work Leading Group Office and Human Resources and Social Security Bureau of Xiangcheng District, Suzhou
+        summary: 研究生暑期实践优秀学员
+
+      - title: Outstanding Student Leader Pacesetter of Tsinghua University
+        authors:
+          - "Tengjiao Wang"
+        date: 2017-10
+        awarder: Tsinghua University Committee of the Communist Youth League
+        summary: 清华大学优秀学生干部标兵
+
+      - title: Outstanding Graduate Student Party Branch Secretary
+        authors:
+          - "Tengjiao Wang"
+        date: 2017-06
+        awarder: Graduate Affairs Office, Tsinghua University
+        summary: 优秀研究生党支部书记
+
+      - title: Outstanding Party Branch Secretary, Department of Electronic Engineering
+        authors:
+          - "Tengjiao Wang"
+        date: 2017-06
+        awarder: CPC Committee of the Department of Electronic Engineering, Tsinghua University
+        summary: 电子工程系优秀党支部书记
+
+      - title: Academic Excellence Scholarship
+        authors:
+          - "Tengjiao Wang"
+        date: 2015-12
+        awarder: Tsinghua University
+        summary: 清华大学学业优秀奖学金
+
+      - title: Social Practice Excellence Scholarship
+        authors:
+          - "Tengjiao Wang"
+        date: 2015-12
+        awarder: Tsinghua University
+        summary: 清华大学社会实践优秀奖学金
+
+      - title: Social Work Excellence Scholarship
+        authors:
+          - "Tengjiao Wang"
+        date: 2015-12
+        awarder: Tsinghua University
+        summary: 清华大学社会工作优秀奖学金
+
+      - title: Outstanding Student Leader in the Tsinghua University Student Union System
+        authors:
+          - "Tengjiao Wang"
+        date: 2015-05
+        awarder: Tsinghua University Student Union
+        summary: 清华大学学生会系统优秀学生骨干
+
+      - title: Outstanding Student Leader of Tsinghua University
+        authors:
+          - "Tengjiao Wang"
+        date: 2015-01
+        awarder: Tsinghua University Committee of the Communist Youth League
+        summary: 清华大学优秀学生干部
+
+      - title: Outstanding Communist Youth League Member
+        authors:
+          - "Tengjiao Wang"
+        date: 2015
+        awarder: Beijing Municipal Committee of the Communist Youth League
+        summary: 北京市先锋杯“优秀团员”
+
+      - title: Academic Excellence Scholarship
+        authors:
+          - "Tengjiao Wang"
+        date: 2014-12
+        awarder: Tsinghua University
+        summary: 清华大学学业优秀奖学金
+
+      - title: Social Work Excellence Scholarship
+        authors:
+          - "Tengjiao Wang"
+        date: 2014-12
+        awarder: Tsinghua University
+        summary: 清华大学社会工作优秀奖学金
+
+      - title: Outstanding Communist Youth League Member of Tsinghua University
+        authors:
+          - "Tengjiao Wang"
+        date: 2014-05
+        awarder: Tsinghua University Committee of the Communist Youth League
+        summary: 清华大学优秀共青团员
+
+      - title: Comprehensive Excellence Scholarship
+        authors:
+          - "Tengjiao Wang"
+        date: 2013-12
+        awarder: Tsinghua University
+        summary: 清华大学综合优秀奖学金
+
+      - title: Outstanding Individual in Student Military Training
+        authors:
+          - "Tengjiao Wang"
+        date: 2012-09
+        awarder: Tsinghua University Military Training Command
+        summary: 清华大学学生军训先进个人

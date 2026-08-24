@@ -1,10 +1,10 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Jian Song":
+  - firstname: ["J. Song", "Jian Song"]
+    url: https://www.sigs.tsinghua.edu.cn/sj_6973/main.psp
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Lizhong Zheng":
+  - firstname: ["L. Zheng", "Lizhong Zheng"]
+    url: https://lizhongzheng.mit.edu/
 
 "rosen":
   - firstname: ["Nathan", "N."]
