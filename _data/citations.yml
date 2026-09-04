@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-09-04'
 papers:
   GXZpIGkAAAAJ:0EnyYjriUFMC:
     citations: 33
@@ -38,11 +38,11 @@ papers:
     title: Deep reinforcement learning for spectrum sharing in future mobile communication system
     year: '2021'
   GXZpIGkAAAAJ:MXK_kJrjxJIC:
-    citations: 33
+    citations: 34
     title: 'Densifying MIMO: Channel modeling, physical constraints, and performance evaluation for holographic communications'
     year: '2024'
   GXZpIGkAAAAJ:Se3iqnhoufwC:
-    citations: 103
+    citations: 104
     title: 'Intelligent reflecting surface-aided visible light communications: Potentials and challenges'
     year: '2021'
   GXZpIGkAAAAJ:Tyk-4Ss8FVUC:
@@ -54,7 +54,7 @@ papers:
     title: 'A Framework of Near-Field Communication with Different Array Geometries: Analysis, Optimization, and General Channel Estimation Algorithms Based on Deep Learning'
     year: '2026'
   GXZpIGkAAAAJ:UebtZRa9Y70C:
-    citations: 55
+    citations: 56
     title: 'Ultraviolet-based UAV swarm communications: Potentials and challenges'
     year: '2022'
   GXZpIGkAAAAJ:W7OEmFMy1HYC:
@@ -98,11 +98,11 @@ papers:
     title: Extensions to COST 2100 channel model for extremely large-scale MIMO
     year: '2022'
   GXZpIGkAAAAJ:kNdYIx-mwKoC:
-    citations: 33
+    citations: 34
     title: 'Breaking the degrees-of-freedom limit of holographic MIMO communications: A 3-D antenna array topology'
     year: '2024'
   GXZpIGkAAAAJ:qjMakFHDy7sC:
-    citations: 5
+    citations: 6
     title: Novel index modulation aided non-orthogonal multiple access for visible light communication
     year: '2019'
   GXZpIGkAAAAJ:roLk4NBRz8UC:
