@@ -1,0 +1,21 @@
+{% assign empty_array = '' | split: ',' %}
+{% assign patent_records = site.data.patents.patents | default: empty_array %}
+{% assign approved_patents = patent_records | where: 'disclosure_approved', true %}
+{% assign selected_patents = approved_patents | where: 'selected', true | sort: 'year' | reverse %}
+{% assign patent_limit = page.selected_patents.limit | default: 5 %}
+
+{% if selected_patents.size > 0 %}
+  <section class="selected-patents" aria-labelledby="selected-patents-heading">
+    <h2 id="selected-patents-heading">
+      <a href="{{ '/patents/' | relative_url }}" style="color: inherit">selected patents</a>
+    </h2>
+    <div class="patent-list patent-list-selected">
+      {% for patent in selected_patents limit: patent_limit %}
+        {% include patent_card.liquid patent=patent compact=true %}
+      {% endfor %}
+    </div>
+    <p class="patent-view-all">
+      <a href="{{ '/patents/' | relative_url }}">View all patents <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
+    </p>
+  </section>
+{% endif %}

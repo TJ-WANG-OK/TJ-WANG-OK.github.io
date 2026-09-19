@@ -1,0 +1,168 @@
+{% assign patent = include.patent %}
+{% assign compact = include.compact | default: false %}
+{% assign inventors = patent.inventors | join: ', ' %}
+{% capture family_numbers %}
+  {% for member in patent.family %} {{ member.number }}{% endfor %}
+{% endcapture %}
+{% capture family_application_numbers %}
+  {% for member in patent.family %} {{ member.application_number }}{% endfor %}
+{% endcapture %}
+{% capture search_terms %}
+  {{ patent.title }} {{ inventors }} {{ patent.year }} {{ patent.application_number }}
+  {% unless patent.status == 'Filed' %}
+    {{ patent.assignee }} {{ patent.tags | join: ' ' }} {{ family_numbers }} {{ family_application_numbers }}
+  {% endunless %}
+{% endcapture %}
+
+<article
+  class="patent-card{% if compact %} patent-card-compact{% endif %}"
+  data-patent-card
+  data-status="{{ patent.status }}"
+  data-search="{{ search_terms | strip_newlines | downcase | escape }}"
+  id="patent-{{ patent.id | slugify }}"
+>
+  <div class="patent-card-header">
+    <div>
+      <span class="patent-year">{{ patent.year }}</span>
+      <span class="patent-status patent-status-{{ patent.status | downcase }}">{{ patent.status }}</span>
+      {% if patent.demo -%}
+        <span class="patent-demo">Demo</span>
+      {%- endif %}
+    </div>
+    {% if patent.selected %}
+      <span class="patent-selected" title="Selected patent"
+        ><i class="fa-solid fa-star" aria-hidden="true"></i><span class="sr-only">Selected patent</span></span
+      >
+    {% endif %}
+  </div>
+
+  <h3 class="patent-title">{{ patent.title | escape }}</h3>
+
+  {% if inventors != blank %}
+    <p class="patent-inventors"><i class="fa-solid fa-user-group" aria-hidden="true"></i> {{ inventors | escape }}</p>
+  {% endif %}
+
+  {% if patent.status == 'Filed' %}
+    <dl class="patent-meta">
+      <div>
+        <dt>Application</dt>
+        <dd>{{ patent.application_number | escape }}</dd>
+      </div>
+      <div>
+        <dt>Filed</dt>
+        <dd>{{ patent.year }}</dd>
+      </div>
+    </dl>
+  {% elsif compact %}
+    {% if patent.assignee or patent.priority_date %}
+      <dl class="patent-meta patent-meta-compact">
+        {% if patent.assignee %}
+          <div>
+            <dt>Assignee</dt>
+            <dd>{{ patent.assignee | escape }}</dd>
+          </div>
+        {% endif %}
+        {% if patent.priority_date %}
+          <div>
+            <dt>Priority</dt>
+            <dd>{{ patent.priority_date }}</dd>
+          </div>
+        {% endif %}
+      </dl>
+    {% endif %}
+
+    {% if patent.family and patent.family.size > 0 %}
+      <div class="patent-family patent-family-compact">
+        <h4>Family applications</h4>
+        <ul>
+          {% for member in patent.family %}
+            <li>
+              <span class="patent-jurisdiction">{{ member.jurisdiction | escape }}</span>
+              <span class="patent-family-application">
+                {% if member.application_number %}{{ member.application_number | escape }}{% else %}{{ member.number | escape }}{% endif %}
+              </span>
+              {% if member.url %}
+                <a class="patent-family-publication" href="{{ member.url | escape }}" target="_blank" rel="noopener noreferrer">
+                  {{- member.number | escape -}}
+                </a>
+              {% elsif member.application_number %}
+                <span class="patent-family-publication">{{ member.number | escape }}</span>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+  {% else %}
+    <dl class="patent-meta">
+      {% if patent.assignee %}
+        <div>
+          <dt>Assignee</dt>
+          <dd>{{ patent.assignee | escape }}</dd>
+        </div>
+      {% endif %}
+      {% if patent.priority_date %}
+        <div>
+          <dt>Priority</dt>
+          <dd>{{ patent.priority_date }}</dd>
+        </div>
+      {% endif %}
+      {% if patent.application_date %}
+        <div>
+          <dt>Filed</dt>
+          <dd>{{ patent.application_date }}</dd>
+        </div>
+      {% endif %}
+      {% if patent.publication_date %}
+        <div>
+          <dt>Published</dt>
+          <dd>{{ patent.publication_date }}</dd>
+        </div>
+      {% endif %}
+    </dl>
+
+    {% if patent.tags and patent.tags.size > 0 %}
+      <div class="patent-tags" aria-label="Topics">
+        {% for tag in patent.tags %}
+          <span>{{ tag | escape }}</span>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if patent.abstract %}
+      <div class="patent-abstract">{{ patent.abstract | markdownify }}</div>
+    {% endif %}
+
+    {% if patent.family and patent.family.size > 0 %}
+      <div class="patent-family">
+        <h4>Patent family</h4>
+        <ul>
+          {% for member in patent.family %}
+            <li>
+              <span class="patent-jurisdiction">{{ member.jurisdiction | escape }}</span>
+              {% if member.url %}
+                <a href="{{ member.url | escape }}" target="_blank" rel="noopener noreferrer">{{ member.number | escape }}</a>
+              {% else %}
+                <span>{{ member.number | escape }}</span>
+              {% endif %}
+              {% if member.status -%}
+                <span class="patent-family-status">{{ member.status | escape }}</span>
+              {%- endif %}
+              {% if member.application_number or member.application_date or member.publication_date %}
+                <span class="patent-family-details">
+                  {% if member.application_number %}Application {{ member.application_number | escape }}{% endif %}
+                  {% if member.application_date -%}
+                    <span>Filed {{ member.application_date }}</span>
+                  {%- endif %}
+                  {% if member.publication_date -%}
+                    <span>Published {{ member.publication_date }}</span>
+                  {%- endif %}
+                </span>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+  {% endif %}
+</article>

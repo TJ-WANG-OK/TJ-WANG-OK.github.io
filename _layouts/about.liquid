@@ -64,6 +64,11 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Selected patents -->
+    {% if page.selected_patents and page.selected_patents.enabled %}
+      {% include selected_patents.liquid %}
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">

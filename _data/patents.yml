@@ -1,0 +1,1013 @@
+# Public patent details are sourced from the patent-database export
+# 文件下载_790987d247dc4f279d140a7b3324f32a.xlsx. Filed records retain
+# only the fields approved for pre-publication display.
+confidential_count: 0
+
+patents:
+  - id: patent-92071202
+    title: "CHANNEL STATE INFORMATION DETERMINATION METHOD AND COMMUNICATION APPARATUS"
+    inventors:
+      - "Ting Li"
+      - "Tengjiao Wang"
+      - "Zhihui Chen"
+      - "Zhenyu Kang"
+    year: 2025
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2025-01-21"
+    application_date: "2025-01-21"
+    publication_date: "2026-07-21"
+    tags:
+      - "H04L1/06"
+      - "H04L25/02"
+    abstract: "Provided in the present application are a channel state information determination method and a communication apparatus, which can reduce the complexity of channel filtering and noise reduction, and can be applied to a communication system. The method comprises: a first communication apparatus receiving a first reference signal from a second communication apparatus; and the first communication apparatus sending first information to the second communication apparatus, wherein the first information is used for indicating K first vectors, the K first vectors are used for determining channel state information, the K first vectors are determined on the basis of the first reference signal, each first vector is used for indicating an angle vector corresponding to one beam, and K is an integer greater than or equal to 1."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2026157962A1"
+        application_number: "WO2026CN70749"
+        application_date: "2026-01-06"
+        publication_date: "2026-07-30"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2026157962A1/en"
+      - jurisdiction: "CN"
+        number: "CN122437635A"
+        application_number: "CN202510098675.2"
+        application_date: "2025-01-21"
+        publication_date: "2026-07-21"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN122437635A/en"
+
+  - id: patent-92072074
+    title: "一种通信指示方法及装置"
+    inventors:
+      - "Zhihui Chen"
+      - "Junhui Gao"
+      - "Yubo Yang"
+      - "Yue Zhu"
+      - "Xiaohan Wang"
+      - "Tengjiao Wang"
+    year: 2025
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2024-09-30"
+    application_date: "2024-09-30"
+    publication_date: "2026-03-31"
+    tags:
+      - "H04B7/0413"
+      - "H04W52/02"
+    abstract: "一种通信指示方法及装置，该方法包括：第一设备确定第一信息；所述第一信息包括第一位图与第二位图；其中，所述第一位图用于指示第一维度端口关断配置信息，所述第二位图用于指示第二维度端口关断配置信息；向第二设备发送所述第一信息。采用上述方法，可以实现有效降低指示端口关断配置的开销。"
+    family:
+      - jurisdiction: "CN"
+        number: "CN121771907A"
+        application_number: "CN202411401469.6"
+        application_date: "2024-09-30"
+        publication_date: "2026-03-31"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN121771907A/en"
+
+  - id: patent-92076992
+    title: "通信方法、装置、存储介质以及计算机程序产品"
+    inventors:
+      - "Ting Li"
+      - "Tengjiao Wang"
+      - "Zhenyu Kang"
+      - "Fengwei Liu"
+    application_number: "92076992PCT02 / 92076992CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92076999
+    title: "通信方法、装置、存储介质以及计算机程序产品"
+    inventors:
+      - "Ting Li"
+      - "Tengjiao Wang"
+      - "Zhenyu Kang"
+      - "Fengwei Liu"
+    application_number: "92076999PCT02 / 92076999CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92081839
+    title: "一种通信方法和装置"
+    inventors:
+      - "Ting Li"
+      - "Tengjiao Wang"
+      - "Zhenyu Kang"
+    application_number: "92081839PCT02 / 92081839CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92091859
+    title: "一种通信方法及装置"
+    inventors:
+      - "Zhenyu Kang"
+      - "Ting Li"
+      - "Tengjiao Wang"
+      - "Changrun Wu"
+    application_number: "92091859CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92091860
+    title: "一种通信方法及装置"
+    inventors:
+      - "Zhenyu Kang"
+      - "Ting Li"
+      - "Tengjiao Wang"
+      - "Changrun Wu"
+    application_number: "92091860CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92091863
+    title: "一种通信方法和装置"
+    inventors:
+      - "Changrun Wu"
+      - "Ting Li"
+      - "Chencheng Ye"
+      - "Tengjiao Wang"
+      - "Zhenyu Kang"
+    application_number: "92091863CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92098629
+    title: "一种通信方法及装置"
+    inventors:
+      - "Changrun Wu"
+      - "Zhenyu Kang"
+      - "Tengjiao Wang"
+      - "Zhongzhichao Wan"
+      - "Ting Li"
+    application_number: "92098629CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92100602
+    title: "一种通信方法及装置"
+    inventors:
+      - "Zhongzhichao Wan"
+      - "Tengjiao Wang"
+      - "Changrun Wu"
+    application_number: "92100602CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92100608
+    title: "通信方法、装置、存储介质以及程序产品"
+    inventors:
+      - "Zhongzhichao Wan"
+      - "Tengjiao Wang"
+      - "Changrun Wu"
+    application_number: "92100608CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92101057
+    title: "通信方法及装置"
+    inventors:
+      - "Zhongzhichao Wan"
+      - "Tengjiao Wang"
+      - "Chencheng Ye"
+      - "Yuhang Chen"
+      - "Changrun Wu"
+    application_number: "92101057CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92103060
+    title: "通信方法及装置"
+    inventors:
+      - "Changrun Wu"
+      - "Tengjiao Wang"
+      - "Zhongzhichao Wan"
+    application_number: "92103060CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92103993
+    title: "一种通信方法及装置"
+    inventors:
+      - "Zhongzhichao Wan"
+      - "Tengjiao Wang"
+      - "Changrun Wu"
+      - "Yuhang Chen"
+      - "Chencheng Ye"
+    application_number: "92103993CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92103994
+    title: "通信方法和通信装置"
+    inventors:
+      - "Zhongzhichao Wan"
+      - "Tengjiao Wang"
+      - "Changrun Wu"
+    application_number: "92103994CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92104080
+    title: "通信方法和通信装置"
+    inventors:
+      - "Changrun Wu"
+      - "Tengjiao Wang"
+      - "Zhongzhichao Wan"
+    application_number: "92104080CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92104496
+    title: "通信方法及装置"
+    inventors:
+      - "Zhongzhichao Wan"
+      - "Tengjiao Wang"
+      - "Changrun Wu"
+    application_number: "92104496CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92104775
+    title: "一种通信方法、通信装置及存储介质"
+    inventors:
+      - "Changrun Wu"
+      - "Yan Chen"
+      - "Xiang Gao"
+      - "Tengjiao Wang"
+      - "Chencheng Ye"
+      - "Zhongzhichao Wan"
+    application_number: "92104775CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92104776
+    title: "通信方法和通信装置"
+    inventors:
+      - "Changrun Wu"
+      - "Xiang Gao"
+      - "Tengjiao Wang"
+      - "Chencheng Ye"
+      - "Zhongzhichao Wan"
+    application_number: "92104776CN01"
+    year: 2025
+    status: Filed
+    disclosure_approved: true
+    selected: false
+
+  - id: patent-92053537
+    title: "BEAM MANAGEMENT METHOD AND COMMUNICATION DEVICE"
+    inventors:
+      - "Zhenyu Kang"
+      - "Tengjiao Wang"
+      - "Ting Li"
+      - "Huangping Jin"
+      - "Guohua Zhou"
+      - "Yan Wang"
+      - "Yichuan Yi"
+    year: 2024
+    status: Published
+    disclosure_approved: true
+    selected: true
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2024-02-08"
+    application_date: "2024-02-08"
+    publication_date: "2025-08-08"
+    tags:
+      - "H04B7/08"
+      - "H04W16/28"
+      - "H04B7/10"
+    abstract: "The present application provides a beam management method and a communication device, capable of improving the transmission efficiency and applicable to a first communication device in a communication system. Polarization directions of the first communication device include three polarization directions. The beam management method comprises: on the basis of a first polarization direction, the first communication device determines a first receive beam corresponding to the first polarization direction and a first pointing angle; and the first communication device receives a first reference signal on each receive beam among receive beams respectively corresponding to the three polarization directions at the first pointing angle, and determines a second receive beam for receiving data. The first reference signal is transmitted by a second communication device on the basis of a first transmit beam. The second receive beam corresponds to the first pointing angle and a second polarization direction, the second polarization direction is one polarization direction among the three polarization directions, and the first receive beam is a receive beam, in a first receive beam set, which has received the first reference signal with maximum signal strength."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2025167709A1"
+        application_number: "WO2025CN74435"
+        application_date: "2025-01-23"
+        publication_date: "2025-08-14"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2025167709A1/en"
+      - jurisdiction: "CN"
+        number: "CN120454791A"
+        application_number: "CN202410177445.0"
+        application_date: "2024-02-08"
+        publication_date: "2025-08-08"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN120454791A/en"
+
+  - id: patent-92059702
+    title: "POWER CONTROL METHOD AND RELATED PRODUCT"
+    inventors:
+      - "Ting Li"
+      - "Tengjiao Wang"
+      - "Zhihui Chen"
+      - "Zhenyu Kang"
+      - "Huangping Jin"
+    year: 2024
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2024-04-30"
+    application_date: "2024-04-30"
+    publication_date: "2025-10-31"
+    tags:
+      - "H04W52/32"
+      - "H04W52/14"
+      - "H04W52/34"
+      - "H04W72/12"
+    abstract: "The present application provides a power control method and a related product. The method comprises: a terminal device sends first information to a network device, wherein the first information indicates grouping information and at least one first power difference between the X antenna port groups, and the grouping information is used for indicating that N antenna ports are classified into the X antenna port groups; the network device sends second information to the terminal device, wherein the second information indicates at least one power control parameter of the X antenna port groups, and the second information is obtained on the basis of the first information; and the terminal device sends a reference signal to the network device at the N antenna ports, wherein the transmission power of the reference signal at the N antenna ports is determined on the basis of the power control parameter of the X antenna port groups. By using the solution of the present application, the transmission power of a reference signal is determined on the basis of antenna port groups, so that the transmission power can be reasonably configured, and the channel accuracies measured by a network device on different antenna ports are basically consistent, thereby improving the overall channel measurement accuracy."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2025228195A1"
+        application_number: "WO2025CN90540"
+        application_date: "2025-04-22"
+        publication_date: "2025-11-06"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2025228195A1/en"
+      - jurisdiction: "CN"
+        number: "CN120881709A"
+        application_number: "CN202410538768.8"
+        application_date: "2024-04-30"
+        publication_date: "2025-10-31"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN120881709A/en"
+
+  - id: patent-92062756
+    title: "信道状态信息上报和接收的方法及相关产品"
+    inventors:
+      - "Zhihui Chen"
+      - "Yue Zhu"
+      - "Yiling Yuan"
+      - "Junhui Gao"
+      - "Xiaohan Wang"
+      - "Tengjiao Wang"
+    year: 2024
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2024-06-06"
+    application_date: "2024-06-06"
+    publication_date: "2025-12-09"
+    tags:
+      - "H04B7/06"
+      - "H04W24/10"
+    abstract: "本申请公开了一种信道状态信息上报和接收的方法及相关产品。该方法包括：网络设备在N·Q个参考信号资源上向终端设备发送N·Q个参考信号，其中，Q个参考信号资源对应P个端口，Q为大于1的整数，N为正整数，P＞32；以及终端设备向网络设备发送CSI，该CSI是基于N·Q个参考信号得到的，发送CSI的时间与关联，与终端的能力关联，与Q关联。采用本申请的方案，可以准确确定大端口数下的与上报CSI相关的时间，实现了大端口数下的CSI的准确上报。"
+    family:
+      - jurisdiction: "CN"
+        number: "CN121098364A"
+        application_number: "CN202410735544.6"
+        application_date: "2024-06-06"
+        publication_date: "2025-12-09"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN121098364A/en"
+
+  - id: patent-92062757
+    title: "COMMUNICATION METHOD AND APPARATUS"
+    inventors:
+      - "Tengjiao Wang"
+      - "Zhihui Chen"
+      - "Yue Zhu"
+      - "Yiling Yuan"
+      - "Junhui Gao"
+      - "Xiaohan Wang"
+    year: 2024
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2024-05-20"
+    application_date: "2024-05-20"
+    publication_date: "2025-11-21"
+    tags:
+      - "H04W24/08"
+      - "H04B7/06"
+      - "H04W72/23"
+      - "H04W72/0446"
+      - "H04L5/00"
+      - "H04W72/04"
+    abstract: "Provided in the present application are a communication method and apparatus. The method comprises: determining a first resource set, wherein the first resource set comprises K resource groups, each of the K resource groups comprises Q resources, each of the Q resources corresponds to N ports, and the Q resources correspond to P ports, K being a positive integer, Q being a positive integer greater than 1, P being greater than N, P being a positive integer greater than 32, and N being a positive integer greater than 1; receiving first indication information, wherein the first indication information is used for indicating a slot corresponding to each resource among (Q*K) resources; and on the basis of the slot corresponding to each resource, measuring each resource to determine channel state information (CSI). By using the present application, the spectral efficiency and the system capacity can be improved."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2025241817A1"
+        application_number: "WO2025CN90619"
+        application_date: "2025-04-23"
+        publication_date: "2025-11-27"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2025241817A1/en"
+      - jurisdiction: "CN"
+        number: "CN121000353A"
+        application_number: "CN202410634282.4"
+        application_date: "2024-05-20"
+        publication_date: "2025-11-21"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN121000353A/en"
+
+  - id: patent-92062759
+    title: "RESOURCE CONFIGURATION METHOD AND RELATED PRODUCT"
+    inventors:
+      - "Zhihui Chen"
+      - "Yue Zhu"
+      - "Yiling Yuan"
+      - "Junhui Gao"
+      - "Xiaohan Wang"
+      - "Tengjiao Wang"
+    year: 2024
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2024-05-10"
+    application_date: "2024-05-10"
+    publication_date: "2025-11-11"
+    tags:
+      - "H04W72/232"
+      - "H04B7/06"
+      - "H04L5/00"
+      - "H04W72/231"
+    abstract: "The present application provides a resource configuration method and a related product. The method comprises: a network device acquires first information, wherein the first information indicates the capability of a terminal device to process channel state information; and on the basis of the first information, the network device sends N·Q reference signals on N·Q reference signal resources, wherein the number of corresponding processing units required when processing the N·Q reference signal resources is as shown in formula (1), formula (1) is associated with Q, Q reference signal resources correspond to P ports, Q>1, and N is a positive integer. By means of the solution of the present application, on the basis of the capability of a terminal device to process channel state information, a network device can accurately determine the number of corresponding processing units required when processing N·Q reference signal resources, such that reference signals are transmitted on reasonable reference signal resources, enabling the terminal device to be capable of processing the received reference signals."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2025232501A1"
+        application_number: "WO2025CN89792"
+        application_date: "2025-04-18"
+        publication_date: "2025-11-13"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2025232501A1/en"
+      - jurisdiction: "CN"
+        number: "CN120934713A"
+        application_number: "CN202410579914.1"
+        application_date: "2024-05-10"
+        publication_date: "2025-11-11"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN120934713A/en"
+
+  - id: patent-92065061
+    title: "COMMUNICATION METHOD AND RELATED APPARATUS"
+    inventors:
+      - "Zhihui Chen"
+      - "Ting Li"
+      - "Zhenyu Kang"
+      - "Tengjiao Wang"
+    year: 2024
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2024-09-30"
+    application_date: "2024-09-30"
+    publication_date: "2026-03-31"
+    tags:
+      - "H04B7/06"
+      - "H04W16/28"
+    abstract: "Disclosed in embodiments of the present application are a communication method and a related apparatus, which are applied to the field of communications. The method is applied to a first communication apparatus, and comprises: receiving first information, wherein the first information indicates a first beam, and an energy concentration range of the first beam is a first range; sending second information, wherein the second information is used for instructing a second communication apparatus to determine a second range; sending multiple second beams on the basis of the first beam; receiving third information, wherein the third information indicates the second range, the second range is determined by the second communication apparatus on the basis of the multiple second beams, and the second range is larger than the first range; and determining a third beam on the basis of the third information, wherein an energy concentration range of the third beam is the second range, and the third beam is used for communication between the first communication apparatus and the second communication apparatus. By adjusting energy concentration ranges of beams and improving the robustness of near-field beams, frequent triggering of a beam recovery process is avoided, thereby reducing the overhead of beam management."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2026067589A1"
+        application_number: "WO2025CN124217"
+        application_date: "2025-09-26"
+        publication_date: "2026-04-02"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2026067589A1/en"
+      - jurisdiction: "CN"
+        number: "CN121771741A"
+        application_number: "CN202411391909.4"
+        application_date: "2024-09-30"
+        publication_date: "2026-03-31"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN121771741A/en"
+
+  - id: patent-92065064
+    title: "METHOD FOR ADJUSTING POWERS OF REFERENCE SIGNALS AND COMMUNICATION DEVICE"
+    inventors:
+      - "Zhenyu Kang"
+      - "Ting Li"
+      - "Tengjiao Wang"
+      - "Zhihui Chen"
+    year: 2024
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2024-09-14"
+    application_date: "2024-09-14"
+    publication_date: "2026-03-17"
+    tags:
+      - "H04L5/00"
+      - "H04W52/06"
+      - "H04B7/0456"
+    abstract: "The present application provides a method for adjusting powers of reference signals and a communication device, which can reduce the power loss of reference signals, thereby improving the accuracy of channel estimation, and can be applied to a communication system. The method comprises: a first communication device receives first information and reference signals corresponding to a plurality of first antenna port sets, and demodulates data on the basis of the reference signals corresponding to the plurality of first antenna port sets and first power backoff parameters respectively corresponding to the plurality of first antenna port sets, wherein the first information is used for adjusting the transmit powers of the reference signals, the first information indicates the first power backoff parameters respectively corresponding to the plurality of first antenna port sets, each first antenna port set among the plurality of first antenna port sets corresponds to one first power backoff parameter, and the first power backoff parameters corresponding to any two first antenna port sets among the plurality of first antenna port sets are different."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2026056723A1"
+        application_number: "WO2025CN118541"
+        application_date: "2025-09-02"
+        publication_date: "2026-03-19"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2026056723A1/en"
+      - jurisdiction: "CN"
+        number: "CN121690295A"
+        application_number: "CN202411306628.4"
+        application_date: "2024-09-14"
+        publication_date: "2026-03-17"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN121690295A/en"
+
+  - id: patent-92065066
+    title: "COMMUNICATION METHOD AND RELATED APPARATUS"
+    inventors:
+      - "Zhihui Chen"
+      - "Ting Li"
+      - "Zhenyu Kang"
+      - "Tengjiao Wang"
+    year: 2024
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2024-11-21"
+    application_date: "2024-11-21"
+    publication_date: "2026-05-22"
+    tags:
+      - "H04B7/06"
+      - "H04B7/0456"
+    abstract: "The present application provides a communication method and a related apparatus. In the method, a terminal device sends first information to a network device. The first information is used for indicating a first basis vector set in a first codebook, and the first basis vector set comprises at least one basis vector. The terminal device receives first indication information and second indication information from the network device. The first indication information is used for indicating oversampling on the distance domain, and the second indication information is used for indicating a first spatial domain range. The terminal device sends third information to the network device, the third information being used for indicating a second basis vector set in a second codebook, and the second basis vector set comprises at least one basis vector. The second codebook is a codebook obtained by means of oversampling in the first spatial domain range, and the density of the basis vectors of the second codebook within the first spatial domain range is greater than the density of the basis vectors in the first codebook within the first spatial domain range. By using the method in the present application, the accuracy of basis vectors can be improved and communication quality can be enhanced while reducing resource overhead."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2026108975A1"
+        application_number: "WO2025CN136719"
+        application_date: "2025-11-21"
+        publication_date: "2026-05-28"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2026108975A1/en"
+      - jurisdiction: "CN"
+        number: "CN122073484A"
+        application_number: "CN202411689765.0"
+        application_date: "2024-11-21"
+        publication_date: "2026-05-22"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN122073484A/en"
+
+  - id: patent-92065069
+    title: "COMMUNICATION METHOD AND APPARATUS, STORAGE MEDIUM AND PROGRAM PRODUCT"
+    inventors:
+      - "Ting Li"
+      - "Tengjiao Wang"
+      - "Jun Xu"
+      - "Junhui Gao"
+    year: 2024
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2024-08-16"
+    application_date: "2024-08-16"
+    publication_date: "2026-03-03"
+    tags:
+      - "H04B7/06"
+      - "H04B7/10"
+      - "H04W8/24"
+      - "H04B7/0456"
+    abstract: "A communication method and apparatus, a storage medium, and a program product. The method may comprise: a terminal sends first information, wherein the first information is used for indicating the antenna capability of the terminal, the first information comprises indication information of an antenna port count at a receiving and transmitting end of the terminal and polarization information, the polarization information is used for indicating that a polarization of an antenna of the terminal at least comprises a first polarization group and a second polarization group, the first polarization group and the second polarization group are different types of polarization groups, and each polarization group among the first polarization group and the second polarization group comprises one or more polarizations; and the terminal receives second information, wherein the second information indicates an uplink precoding matrix, and the second information is determined on the basis of the first information and a preset uplink codebook. According to the embodiments of the present application, for a scenario in which a specially polarized antenna is configured for a terminal, the application of the terminal provided with the specially polarized antenna in uplink transmission is enabled."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2026037197A1"
+        application_number: "WO2025CN113460"
+        application_date: "2025-08-08"
+        publication_date: "2026-02-19"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2026037197A1/en"
+      - jurisdiction: "CN"
+        number: "CN121603053A"
+        application_number: "CN202411134396.9"
+        application_date: "2024-08-16"
+        publication_date: "2026-03-03"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN121603053A/en"
+
+  - id: patent-92065629
+    title: "COMMUNICATION METHOD AND APPARATUS"
+    inventors:
+      - "Zhenyu Kang"
+      - "Ting Li"
+      - "Tengjiao Wang"
+      - "Zhihui Chen"
+    year: 2024
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2024-10-18"
+    application_date: "2024-10-18"
+    publication_date: "2026-04-21"
+    tags:
+      - "H04B7/06"
+      - "H04B17/20"
+      - "H04L5/00"
+      - "H04B7/0456"
+    abstract: "The present application relates to the technical field of communications, and provides a communication method and apparatus. In the method, a terminal performs interference measurement by means of a first reference signal to obtain information of an interference level when the terminal uses a first pre-coding mode. The terminal can send the information of the interference level to a radio access network node by means of first information, so that the radio access network node can determine, on the basis of the information of the interference level, a second pre-coding mode applicable to the current interference level of the terminal. Alternatively, the terminal can also determine, on the basis of the information of the interference level, the second pre-coding mode applicable to the current interference level, and indicate the second pre-coding mode to a radio access network device by means of the first information. In this way, the terminal or the radio access network node can flexibly adjust the pre-coding mode on the basis of the information of the interference level, thereby effectively reducing the degree of interference to the terminal and improving the transmission performance of a communication system."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2026082015A1"
+        application_number: "WO2025CN127511"
+        application_date: "2025-10-14"
+        publication_date: "2026-04-23"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2026082015A1/en"
+      - jurisdiction: "CN"
+        number: "CN121907288A"
+        application_number: "CN202411466672.1"
+        application_date: "2024-10-18"
+        publication_date: "2026-04-21"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN121907288A/en"
+
+  - id: patent-92066623
+    title: "COMMUNICATION METHOD, APPARATUS AND SYSTEM"
+    inventors:
+      - "Zhenyu Kang"
+      - "Tengjiao Wang"
+      - "Ting Li"
+      - "Jun Xu"
+      - "Zhihui Chen"
+    year: 2024
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2024-12-03"
+    application_date: "2024-12-03"
+    publication_date: "2026-06-05"
+    tags:
+      - "H04W24/08"
+      - "H04W72/0453"
+      - "H04B7/0452"
+      - "H04W72/0446"
+    abstract: "Provided in the present application are a communication method, an apparatus and a system, which are applied to the technical field of communications. The communication method provided in the present application can configure a reference signal having zero power in an MU-MIMO system, so as to estimate and consider a multi-user interference level after pre-coding. The communication method comprises: a network device sends first information to a first terminal device, the first information being used for indicating that the power of a first reference signal on a first port at a first time-frequency position is zero; and the network device sends second information to a second terminal device, the second information being used for indicating that the power of the first reference signal on a second port at the first time-frequency position is zero, and the first port and the second port being corresponding to a first time-frequency resource."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2026118990A1"
+        application_number: "WO2025CN138078"
+        application_date: "2025-11-27"
+        publication_date: "2026-06-11"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2026118990A1/en"
+      - jurisdiction: "CN"
+        number: "CN122159912A"
+        application_number: "CN202411769084.5"
+        application_date: "2024-12-03"
+        publication_date: "2026-06-05"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN122159912A/en"
+
+  - id: patent-92041492
+    title: "ANTENNA SYSTEM AND COMMUNICATION APPARATUS"
+    inventors:
+      - "Tengjiao Wang"
+      - "Ting Li"
+      - "Jie Wang"
+      - "Peng Shang"
+      - "Xiaohan Wang"
+      - "Huangping Jin"
+    year: 2023
+    status: Published
+    disclosure_approved: true
+    selected: true
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2023-10-27"
+    application_date: "2023-10-27"
+    publication_date: "2025-04-29"
+    tags:
+      - "H01Q21/00"
+      - "H01Q1/24"
+    abstract: "Disclosed in the embodiments of the present application are an antenna system and a communication apparatus. The antenna system comprises an antenna array, the antenna array comprising K layers of antenna units arranged in a first direction, wherein each plane where each layer of antenna units is located among the K layers of antenna units is a different plane, and the number of antenna units in at least one layer of antenna units among the K layers of antenna units is greater than 2, K being an integer greater than 1. The communication apparatus comprises the antenna system. The antenna system further improves the system capacity and spectrum efficiency of a communication system under the constraint of limited antenna array area."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2025086976A1"
+        application_number: "WO2024CN120657"
+        application_date: "2024-09-24"
+        publication_date: "2025-05-01"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2025086976A1/en"
+      - jurisdiction: "CN"
+        number: "CN119905829A"
+        application_number: "CN202311433266.0"
+        application_date: "2023-10-27"
+        publication_date: "2025-04-29"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN119905829A/en"
+
+  - id: patent-92046851
+    title: "CHANNEL STATE INFORMATION REPORTING METHOD, COMMUNICATION APPARATUS, AND COMMUNICATION SYSTEM"
+    inventors:
+      - "Zhihui Chen"
+      - "Tengjiao Wang"
+      - "Ting Li"
+      - "Huangping Jin"
+      - "Chao Wang"
+      - "Cen Ling"
+    year: 2023
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2023-11-30"
+    application_date: "2023-11-30"
+    publication_date: "2025-05-30"
+    tags:
+      - "H04W72/23"
+      - "H04L5/00"
+      - "H04W72/044"
+    abstract: "A channel state information (CSI) reporting method, a communication apparatus, and a communication system, relating to the technical field of communications. The method comprises: a second communication apparatus sends a reference signal, and accordingly, a first communication apparatus receives the reference signal; the first communication apparatus determines a first spatial domain basis vector on the basis of the reference signal, wherein the first spatial domain basis vector is determined by a first distance, the first distance represents the distance between a first reference point and a second reference point, the first reference point is any point in a plane formed by an antenna array of the second communication apparatus, the second reference point is a point on a straight line passing through the first reference point, and the included angle between the straight line and the plane where the antenna array is located is an angle corresponding to the first spatial domain basis vector; and the first communication apparatus sends first information, and accordingly, the second communication apparatus receives the first information, wherein the first information indicates the first spatial domain basis vector. By using embodiments of the present application, a spatial domain basis vector can be matched with a channel environment, thereby improving the accuracy of CSI reporting."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2025113135A1"
+        application_number: "WO2024CN130550"
+        application_date: "2024-11-07"
+        publication_date: "2025-06-05"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2025113135A1/en"
+      - jurisdiction: "CN"
+        number: "CN120076006A"
+        application_number: "CN202311638551.6"
+        application_date: "2023-11-30"
+        publication_date: "2025-05-30"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN120076006A/en"
+
+  - id: patent-92047125
+    title: "BEAM MEASUREMENT METHOD AND APPARATUS FOR THREE-DIMENSIONAL ANTENNA ARRAY"
+    inventors:
+      - "Ting Li"
+      - "Tengjiao Wang"
+      - "Jie Wang"
+      - "Peng Shang"
+      - "Xiaohan Wang"
+      - "Huangping Jin"
+    year: 2023
+    status: Published
+    disclosure_approved: true
+    selected: true
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2023-10-27"
+    application_date: "2023-10-27"
+    publication_date: "2025-04-29"
+    tags:
+      - "H04B7/08"
+      - "H04B7/06"
+      - "H04B17/309"
+      - "H04B17/318"
+      - "H04B7/0413"
+      - "H04B17/336"
+    abstract: "The present application discloses a beam measurement method and apparatus for a three-dimensional antenna array. The method comprises: transmitting reference signals corresponding to N reference signal resources, the reference signals being used for beam measurement, the N reference signal resources having one-to-one correspondence to N beams, and N being an integer greater than 1; receiving first indication information, the first indication information being used for indicating a first reference signal resource, and the N reference signal resources comprising the first reference signal resource; on the basis of the first indication information, transmitting reference signals corresponding to M reference signal resources, the M reference signal resources having one-to-one correspondence to M beams, and M being a positive integer; and receiving second indication information, the second indication information being used for indicating a second reference signal resource, and the second reference signal resource being one among the first reference signal resource and the M reference signal resources. In the method, the first indication information can be used for a second round of beam measurement, so that reference signal resources for beam measurement of the three-dimensional antenna array can be reduced, thereby reducing measurement overhead."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2025086975A1"
+        application_number: "WO2024CN120592"
+        application_date: "2024-09-24"
+        publication_date: "2025-05-01"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2025086975A1/en"
+      - jurisdiction: "CN"
+        number: "CN119906502A"
+        application_number: "CN202311427059.4"
+        application_date: "2023-10-27"
+        publication_date: "2025-04-29"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN119906502A/en"
+      - jurisdiction: "EP"
+        number: "EP4783489A1"
+        application_number: "EP24881341A"
+        application_date: "2024-09-24"
+        publication_date: "2026-07-29"
+        status: "Published"
+        url: "https://patents.google.com/patent/EP4783489A1/en"
+
+  - id: patent-92048752
+    title: "CHANNEL INFORMATION ACQUISITION METHOD, APPARATUS AND SYSTEM, AND CHIP MODULE AND STORAGE MEDIUM"
+    inventors:
+      - "Ting Li"
+      - "Tengjiao Wang"
+      - "Xiaohan Wang"
+      - "Chencheng Ye"
+      - "Huangping Jin"
+      - "Guohua Zhou"
+    year: 2023
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2023-11-10"
+    application_date: "2023-11-10"
+    publication_date: "2025-05-13"
+    tags:
+      - "H04B7/06"
+      - "H04B7/0417"
+      - "H04L25/02"
+      - "H04B7/0456"
+      - "H04W24/08"
+      - "H04B7/0413"
+    abstract: "A channel information acquisition method, apparatus and system, and a chip module and a storage medium. When there is an energy difference between ports of a communication apparatus, channel information associated with one port group is acquired on the basis of second reference signals; the communication apparatus then sends first reference signals on two port groups; channel information associated with another port group, and channel combining information are obtained on the basis of the first reference signals; and on the basis of the channel combining information, the channel information, which is associated with one port group and is obtained on the basis of the second reference signals, is combined with the channel information, which is associated with another port group and is obtained on the basis of the first reference signals, so that full channel information with a higher accuracy can be obtained, thereby improving the accuracy of acquired channel information."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2025098245A1"
+        application_number: "WO2024CN129196"
+        application_date: "2024-11-01"
+        publication_date: "2025-05-15"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2025098245A1/en"
+      - jurisdiction: "CN"
+        number: "CN119995652A"
+        application_number: "CN202311494931.7"
+        application_date: "2023-11-10"
+        publication_date: "2025-05-13"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN119995652A/en"
+      - jurisdiction: "EP"
+        number: "EP4797779A1"
+        application_number: "EP24887857A"
+        application_date: "2024-11-01"
+        publication_date: "2026-08-26"
+        status: "Published"
+        url: "https://patents.google.com/patent/EP4797779A1/en"
+
+  - id: patent-92049291
+    title: "CHANNEL STATE INFORMATION FEEDBACK METHOD AND COMMUNICATION APPARATUS"
+    inventors:
+      - "Zhenyu Kang"
+      - "Zhihui Chen"
+      - "Tengjiao Wang"
+      - "Ting Li"
+      - "Yiling Yuan"
+      - "Huangping Jin"
+    year: 2023
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2023-12-05"
+    application_date: "2023-12-05"
+    publication_date: "2025-06-06"
+    tags:
+      - "H04B7/06"
+      - "H04B7/22"
+    abstract: "The present application provides a channel state information feedback method and a communication apparatus, capable of reducing the feedback overhead of channel state information and being applied to a communication system. The method comprises: a first device receives a reference signal, and sends first indication information to a second device on the basis of the reference signal. The first indication information is determined on the basis of the reference signal, and the first indication information is used for indicating a plurality of first spatial domain basis vectors. The plurality of first spatial domain basis vectors are some or all of spatial domain basis vectors in first spatial domain bases. The first spatial domain bases comprise: spatial domain bases that undergo zero-padding extension of second spatial domain bases of which the dimensions are less than the number of antenna ports of the second device among a plurality of second spatial domain bases such that the dimensions are equal to the number of antenna ports of the second device, and spatial domain bases of which the dimensions are equal to the number of antenna ports of the second device among the plurality of second spatial domain bases. The plurality of second spatial domain bases comprise some of spatial domain bases among spatial domain bases corresponding to the number of antenna ports of the second device."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2025119075A1"
+        application_number: "WO2024CN135279"
+        application_date: "2024-11-28"
+        publication_date: "2025-06-12"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2025119075A1/en"
+      - jurisdiction: "CN"
+        number: "CN120110512A"
+        application_number: "CN202311658068.4"
+        application_date: "2023-12-05"
+        publication_date: "2025-06-06"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN120110512A/en"
+
+  - id: patent-92050772
+    title: "COMMUNICATION METHOD, APPARATUS AND SYSTEM, AND CHIP MODULE AND STORAGE MEDIUM"
+    inventors:
+      - "Zhihui Chen"
+      - "Zhenyu Kang"
+      - "Ting Li"
+      - "Jun Xu"
+      - "Tengjiao Wang"
+      - "Huangping Jin"
+    year: 2023
+    status: Published
+    disclosure_approved: true
+    selected: false
+    assignee: "Huawei Technologies Co., Ltd."
+    priority_date: "2023-12-04"
+    application_date: "2023-12-04"
+    publication_date: "2025-06-06"
+    tags:
+      - "H04W72/542"
+      - "H04W16/28"
+      - "H04W72/044"
+    abstract: "A communication method, apparatus and system, and a chip module and a storage medium. The method comprises: a first device sending to a second device N beams in a first direction, wherein energy focus points of the N beams are at different distances to the first device; the first device receiving first information from the second device, wherein the first information is used for indicating signal quality information of the N beams, which is obtained by the second device by performing measurement; and the first device determining a target beam on the basis of the first information, wherein the target beam is used for the communication between the first device and the second device. By means of sending a plurality of near-field beams in a first direction, receiving signal quality information of the plurality of near-field beams, which is reported by a second device, and determining a target beam on the basis of the signal quality information of the plurality of near-field beams, a first device can implement far-field and near-field beam scanning, and implement accurate beam management, such that beam designs are matched to channels."
+    family:
+      - jurisdiction: "WO"
+        number: "WO2025119045A1"
+        application_number: "WO2024CN134692"
+        application_date: "2024-11-26"
+        publication_date: "2025-06-12"
+        status: "Published"
+        url: "https://patents.google.com/patent/WO2025119045A1/en"
+      - jurisdiction: "CN"
+        number: "CN120111513A"
+        application_number: "CN202311656320.8"
+        application_date: "2023-12-04"
+        publication_date: "2025-06-06"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN120111513A/en"
+
+  - id: patent-cn201910006514
+    title: "基于索引调制的可见光通信混合调光方法及装置"
+    inventors:
+      - "杨昉"
+      - "王腾蛟"
+      - "潘长勇"
+      - "宋健"
+    year: 2019
+    status: Granted
+    disclosure_approved: true
+    selected: false
+    assignee: "清华大学"
+    priority_date: "2019-01-04"
+    application_date: "2019-01-04"
+    publication_date: "2019-04-12"
+    tags:
+      - "H04B10/116"
+      - "H04L27/26"
+      - "H04B10/516"
+    abstract: "本发明公开了一种基于索引调制的可见光通信混合调光方法及装置，其中，该方法包括以下步骤：根据通信需求选择所有OFDM子载波中预设数量的OFDM子载波调制可见光信号，确定用于调制活跃OFDM子载波的数量和对应信号帧放大因子，以对待传输信号进行索引调制，并通过IFFT变换获取时域待传输信号；根据调光需求对时域待传输信号处理得到并确定正负极性信号帧所占比例；按其所占比例乘以放大因子，并加上相应的直流偏置，得到待发送信号帧；对待发送信号帧进行数模变换和滤波后控制可见光驱动电流，获取并发送可见光通信信号。该方法够同时实现高动态范围的可见光调光和高速的可见光通信，在给定的调光要求下有效提高通信系统的容量。"
+    family:
+      - jurisdiction: "CN"
+        number: "CN109617603A"
+        application_number: "CN201910006514.0"
+        application_date: "2019-01-04"
+        publication_date: "2019-04-12"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN109617603A/en"
+      - jurisdiction: "CN"
+        number: "CN109617603B"
+        application_number: "CN201910006514.0"
+        application_date: "2019-01-04"
+        publication_date: "2020-12-04"
+        status: "Granted"
+        url: "https://patents.google.com/patent/CN109617603B/en"
+
+  - id: patent-cn201810860712
+    title: "基于广义空间调制的可见光通信混合调光方法及装置"
+    inventors:
+      - "杨昉"
+      - "王腾蛟"
+      - "宋健"
+      - "郭文秀"
+      - "伍守豪"
+    year: 2018
+    status: Granted
+    disclosure_approved: true
+    selected: false
+    assignee: "深圳清华大学研究院; 清华大学"
+    priority_date: "2018-08-01"
+    application_date: "2018-08-01"
+    publication_date: "2018-12-14"
+    tags:
+      - "H04B10/116"
+    abstract: "本发明公开了一种基于广义空间调制的可见光通信混合调光方法及装置，方法包括：选择一簇LED灯中多个LED灯作为活跃LED灯发射可见光信号，并确定每个LED灯对应帧放大因子，并对待传输信号进行广义空间调制；对待传输信号调制得到正极性信号帧与负极性信号帧，并确定正极性信号帧与负极性信号帧所占比例；在每个活跃LED灯，将混合信号帧中的正极性信号帧与负极性信号帧乘以相应信号帧放大因子，并加上相应直流偏置，以得到待发送信号帧；对待发送信号帧进行数模变换、滤波之后控制可见光驱动电流，获取并发送可见光通信信号。该方法够同时实现高动态范围的可见光调光和高速的可见光通信，在给定的调光要求下有效提高通信系统的容量。"
+    family:
+      - jurisdiction: "CN"
+        number: "CN109004980A"
+        application_number: "CN201810860712.9"
+        application_date: "2018-08-01"
+        publication_date: "2018-12-14"
+        status: "Published"
+        url: "https://patents.google.com/patent/CN109004980A/en"
+      - jurisdiction: "CN"
+        number: "CN109004980B"
+        application_number: "CN201810860712.9"
+        application_date: "2018-08-01"
+        publication_date: "2020-10-30"
+        status: "Granted"
+        url: "https://patents.google.com/patent/CN109004980B/en"

@@ -1,0 +1,339 @@
+@use "variables" as v;
+
+.patents,
+.selected-patents {
+  .patent-list {
+    display: grid;
+  }
+
+  .patent-year-list {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .patent-year-group[hidden] {
+    display: none;
+  }
+
+  .patent-year-heading {
+    border-top: 1px solid var(--global-divider-color);
+    color: var(--global-divider-color);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    text-align: right;
+  }
+
+  .patent-card {
+    background: var(--global-card-bg-color);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.5rem;
+    padding: 1.25rem;
+  }
+
+  .patent-card[hidden] {
+    display: none;
+  }
+
+  .patent-card-header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+  }
+
+  .patent-year,
+  .patent-status,
+  .patent-demo,
+  .patent-tags span,
+  .patent-jurisdiction,
+  .patent-family-status {
+    border-radius: 999px;
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 1.2;
+    padding: 0.3rem 0.6rem;
+  }
+
+  .patent-year {
+    background: var(--global-code-bg-color);
+    color: var(--global-text-color);
+    margin-right: 0.35rem;
+  }
+
+  .patent-status {
+    border: 1px solid currentColor;
+  }
+
+  .patent-status-granted {
+    color: v.$green-color-dark;
+  }
+
+  .patent-status-published {
+    color: var(--global-theme-color);
+  }
+
+  .patent-status-filed {
+    color: v.$orange-color;
+  }
+
+  .patent-demo {
+    background: var(--global-code-bg-color);
+    color: var(--global-text-color-light);
+    margin-left: 0.35rem;
+  }
+
+  .patent-selected {
+    color: v.$yellow-color;
+  }
+
+  .patent-title {
+    font-size: 1.15rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+  }
+
+  .patent-inventors,
+  .patent-primary-number {
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .patent-meta {
+    display: grid;
+    gap: 0.5rem 1.5rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin: 0.75rem 0;
+
+    div {
+      min-width: 0;
+    }
+
+    dt {
+      color: var(--global-text-color-light);
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
+
+    dd {
+      margin: 0;
+      overflow-wrap: anywhere;
+    }
+  }
+
+  .patent-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.75rem 0;
+
+    span {
+      background: var(--global-code-bg-color);
+      color: var(--global-theme-color);
+    }
+  }
+
+  .patent-abstract {
+    font-size: 0.95rem;
+    margin-top: 0.75rem;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .patent-family {
+    border-top: 1px solid var(--global-divider-color);
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+
+    h4 {
+      font-size: 0.9rem;
+      margin-bottom: 0.5rem;
+    }
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    li {
+      align-items: center;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 0.45rem;
+    }
+  }
+
+  .patent-jurisdiction {
+    background: var(--global-theme-color);
+    color: var(--global-card-bg-color);
+    min-width: 2.5rem;
+    text-align: center;
+  }
+
+  .patent-family-status {
+    background: var(--global-code-bg-color);
+    color: var(--global-text-color-light);
+  }
+
+  .patent-family-details {
+    color: var(--global-text-color-light);
+    flex-basis: 100%;
+    font-size: 0.8rem;
+    margin-left: 3rem;
+
+    span::before {
+      content: " · ";
+    }
+  }
+
+  .patent-meta-compact {
+    margin-bottom: 0;
+  }
+
+  .patent-family-compact {
+    margin-top: 0.75rem;
+
+    li {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr) auto;
+    }
+  }
+
+  .patent-family-application,
+  .patent-family-publication {
+    font-size: 0.85rem;
+    overflow-wrap: anywhere;
+  }
+
+  .patent-family-publication {
+    text-align: right;
+  }
+}
+
+.patents {
+  .patent-demo-notice {
+    background: var(--global-code-bg-color);
+    border-left: 3px solid var(--global-theme-color);
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
+    padding: 0.8rem 1rem;
+
+    i {
+      color: var(--global-theme-color);
+      margin-right: 0.4rem;
+    }
+  }
+
+  .patent-controls {
+    margin-bottom: 1rem;
+  }
+
+  .patent-search {
+    margin-bottom: 0.75rem;
+  }
+
+  .patent-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .patent-filter {
+    background: var(--global-bg-color);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 999px;
+    color: var(--global-text-color);
+    cursor: pointer;
+    padding: 0.4rem 0.8rem;
+
+    span {
+      color: var(--global-text-color-light);
+      margin-left: 0.25rem;
+    }
+
+    &:hover,
+    &:focus,
+    &.active {
+      border-color: var(--global-theme-color);
+      color: var(--global-theme-color);
+    }
+
+    &.active {
+      background: var(--global-code-bg-color);
+    }
+  }
+
+  .patent-results {
+    color: var(--global-text-color-light);
+    font-size: 0.85rem;
+    min-height: 1.25rem;
+  }
+
+  .patent-empty-state {
+    border: 1px dashed var(--global-divider-color);
+    border-radius: 0.5rem;
+    color: var(--global-text-color-light);
+    padding: 2rem 1rem;
+    text-align: center;
+
+    i {
+      font-size: 1.5rem;
+      margin-bottom: 0.75rem;
+    }
+
+    p {
+      margin-bottom: 0.75rem;
+    }
+  }
+
+  .patent-confidential-note {
+    color: var(--global-text-color-light);
+    font-size: 0.85rem;
+    margin-top: 1rem;
+  }
+}
+
+.selected-patents {
+  .patent-list-selected {
+    gap: 1rem;
+    grid-template-columns: 1fr;
+  }
+
+  .patent-card-compact {
+    padding: 1rem;
+  }
+
+  .patent-view-all {
+    margin-top: 0.75rem;
+    text-align: right;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .patents,
+  .selected-patents {
+    .patent-meta,
+    .patent-list-selected {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .selected-patents .patent-family-compact li {
+    grid-template-columns: auto minmax(0, 1fr);
+
+    .patent-family-publication {
+      grid-column: 2;
+      text-align: left;
+    }
+  }
+}
