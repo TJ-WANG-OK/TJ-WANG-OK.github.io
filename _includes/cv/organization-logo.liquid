@@ -1,0 +1,15 @@
+{% assign organization_name = include.entry.institution
+  | default: include.entry.company
+  | default: include.entry.name
+  | default: include.entry.organization
+%}
+{% assign organization = site.data.cv_organizations[organization_name] %}
+{% if organization %}
+  <a
+    class="cv-organization-logo"
+    href="{{ organization.url }}"
+    aria-label="{{ organization.name | escape }}"
+  >
+    <img src="{{ organization.logo | relative_url }}" alt="{{ organization.name | escape }} logo" width="68" height="68" loading="lazy">
+  </a>
+{% endif %}

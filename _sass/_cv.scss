@@ -218,3 +218,86 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+// Transparent organization icons share the same spacing in both themes.
+.cv-organization-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 76px;
+  max-width: 100%;
+  height: 76px;
+  margin: 0.5rem auto 0;
+  padding: 4px;
+  border-radius: 4px;
+  background-color: transparent;
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-height: 68px;
+    object-fit: contain;
+  }
+}
+
+// A fixed metadata column keeps dates and logos clear of long CV text.
+.cv-entry {
+  display: grid;
+  grid-template-columns: 112px minmax(0, 1fr);
+  gap: 24px;
+  align-items: start;
+}
+
+.cv-entry-meta {
+  text-align: center;
+
+  .table-cv {
+    margin: 0 auto;
+  }
+
+  .location {
+    margin: 0.35rem 0 0;
+    white-space: normal;
+  }
+
+  .cv-organization-logo {
+    margin-top: 0.75rem;
+  }
+}
+
+.cv-entry-content {
+  min-width: 0;
+  overflow-wrap: anywhere;
+
+  .items {
+    padding-left: 1.2rem;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .cv-entry {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 16px;
+  }
+
+  .cv-entry-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    text-align: left;
+
+    .table-cv {
+      margin: 0;
+    }
+
+    .cv-organization-logo {
+      flex: 0 0 64px;
+      width: 64px;
+      height: 64px;
+      margin: 0;
+    }
+  }
+}
