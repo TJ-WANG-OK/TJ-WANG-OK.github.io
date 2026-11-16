@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TJ-WANG-OK.github.io/sitemap.xml
+Sitemap: https://wangtengjiao.com/sitemap.xml
